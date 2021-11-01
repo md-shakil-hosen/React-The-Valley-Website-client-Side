@@ -1,0 +1,11 @@
+.about-head{
+    text-align: center;
+}
+.about-us,.contact-us{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.about-us{
+    padding-top: 60px;
+    padding-bottom: 60px;
+}

@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500&display=swap');
+.read-btn{
+    color: white;
+    background-color: #3fd0d3;
+    border: 1px solid #3fd0d3;
+    transition: all 0.3s ease;
+    font-family: "Lato", Sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    border-radius: 4px;
+    padding: 7px 20px;
+
+}
+.read-btn:hover{
+    background-color: white;
+    color: #3fd0d3;
+}
+.price{
+    font-size: 18px;
+    font-weight: 700;
+    color: #ff4a52;
+    text-align: left;
+    font-family: 'Open Sans', sans-serif;
+}
+.duration{
+    text-align: left;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 500;
+}
+.card-shadow:hover{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    transition: ease 1s;
+}

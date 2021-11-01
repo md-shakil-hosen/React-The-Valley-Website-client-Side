@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500&display=swap');
+.book-btn{
+    color: #ffffff;
+    border: 1px solid #ffff;
+    transition: all 0.3 ease;
+    font-family: sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 26px;
+    background-color: #ff4a52;
+    border-radius: 4px;
+    padding: 5px 20px;
+    font-family: 'Open Sans', sans-serif;
+}
+.book-btn:hover{
+    color: #ff4a52;
+    background-color: white;
+    transition: ease 1s;
+    border: 1px solid #ff4a52;
+}
+.price{
+    font-size: 18px;
+    font-weight: 700;
+    color: #ff4a52;
+    text-align: left;
+    font-family: 'Open Sans', sans-serif;
+}
+.duration{
+    text-align: left;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 500;
+}
+.tour-title{
+    color: rgb(194, 194, 194);
+}
+.card-shadow:hover{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    transition: ease 1s;
+}
+.destination{
+    background-image: url('https://demo.themexpert.com/wordpress/valley/tour-package/wp-content/uploads/sites/6/2019/07/aerial-aerial-photography-bird-s-eye-view-2331588.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+  background-attachment: fixed;
+  height: 300px;
+}
+.hero-btn2{
+    color: white;
+    background-color: #3fd0d3;
+    border: 1px solid #3fd0d3;
+    transition: all 0.3s ease;
+    font-family: "Lato", Sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    border-radius: 4px;
+    padding: 7px 20px;
+}
+.hero-btn2:hover{
+    background-color: white;
+    color: #3fd0d3;
+}

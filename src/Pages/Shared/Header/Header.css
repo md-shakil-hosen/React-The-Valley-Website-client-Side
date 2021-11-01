@@ -1,0 +1,52 @@
+.btn{
+    color: #3fd0d3;
+    border: 1px solid #3fd0d3;
+    transition: all 0.3s ease;
+    font-family: "Lato", Sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    border-radius: 4px;
+}
+.btn:hover{
+    background-color: #3fd0d3;
+    color: white;
+}
+.log-out{
+    color: #f01c1c;
+    border: 1px solid #f01c1c;
+    transition: all 0.3s ease;
+    font-family: "Lato", Sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    border-radius: 4px; 
+    background-color: white;
+    padding: 5px 15px; 
+}
+.log-out:hover{
+    background-color: #f01c1c;
+    color: white;
+}
+.login{
+    color: #3fd0d3;
+    border: 1px solid #3fd0d3;
+    transition: all 0.3s ease;
+    font-family: "Lato", Sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    border-radius: 4px; 
+    padding: 5px 15px; 
+    background-color: white;
+}
+.login:hover{
+    background-color: white;
+    color: #3fd0d3;
+    border: 1px solid white;
+}
+.nav-brand{
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    background-color: white;
+    padding: 3px;
+    border-radius:5px;
+}

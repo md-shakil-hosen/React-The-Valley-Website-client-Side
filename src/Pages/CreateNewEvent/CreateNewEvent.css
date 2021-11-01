@@ -1,0 +1,22 @@
+.from{
+    border: 2px solid blueviolet;
+    width: 50%;
+    padding: 10px 20px;
+    background-color: blueviolet;
+}
+.submit-btn{
+    color: white;
+    background-color: #3fd0d3;
+    border: 1px solid #3fd0d3;
+    transition: all 0.3s ease;
+    font-family: "Lato", Sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    border-radius: 4px;
+    padding: 7px 20px;
+}
+.submit-btn:hover{
+    background-color: blueviolet;
+    color: white;
+    border: 1px solid white;
+}

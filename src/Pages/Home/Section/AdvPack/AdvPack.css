@@ -1,0 +1,28 @@
+.AdvPack{
+    margin-top: 50px;
+    padding-top: 20px;
+    color: white;
+    font-weight: 600;
+    margin: 0 auto;
+    margin-bottom: 10px;
+}
+.AdvPack-bg{
+    background-image: url(https://demo.themexpert.com/wordpress/valley/destination-showcase/wp-content/uploads/sites/3/2019/07/traveler-enjoying-winter-landscape-PY4NJEP-1.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed; 
+}
+.btn{
+    color: #3fd0d3;
+    border: 1px solid #3fd0d3;
+    transition: all 0.3s ease;
+    font-family: "Lato", Sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    border-radius: 4px;
+}
+.btn:hover{
+    background-color: #3fd0d3;
+    color: white;
+}

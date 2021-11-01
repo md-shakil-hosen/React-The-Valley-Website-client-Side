@@ -1,0 +1,21 @@
+.card-body:hover{
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    transition: ease 1s;
+}
+.btn{
+    color: #3fd0d3;
+    border: 1px solid #3fd0d3;
+    transition: all 0.3s ease;
+    font-family: "Lato", Sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    border-radius: 4px;
+}
+.btn:hover{
+    background-color: #3fd0d3;
+    color: white;
+}
+.tour-price{
+    font-weight: 700;
+    color: #3fd0d3;
+}

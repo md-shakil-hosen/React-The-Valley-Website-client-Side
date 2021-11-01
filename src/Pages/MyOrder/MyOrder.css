@@ -1,0 +1,12 @@
+.order-text{
+    background-color: blueviolet;
+    padding: 8px 20px;
+    color: white;
+    font-size: 2rem;
+}
+.notAvl-btn{
+    font-size: 12px;
+    background-color: tomato;
+    padding: 4px 5px ;
+    color: white;
+}
